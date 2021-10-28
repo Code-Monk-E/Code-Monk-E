@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Code-Monk-E
+- 👀 I’m interested in human technology
+- 🌱 I’m currently learning everything I can - current scope of focus being Javascript APIs and shell scripting
+- 💞️ I’m looking to collaborate on a search engine design, or anything you wish to pay me to persue
+- 📫 Reach me at my email - m d g e . g y @ g m a i l . c o m
